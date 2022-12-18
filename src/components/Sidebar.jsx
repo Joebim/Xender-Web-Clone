@@ -13,7 +13,7 @@ export default function Sidebar() {
 
   return (
     <>
-        <div className="side-bar w-[65px] h-full bg-black absolute top-0 left-0">
+        <div className="side-bar w-[65px] h-[100%] pb-[50%] md:pb-[15%] bg-black top-0 left-0 sticky">
             <div className="logo m-[13px]">
                 <img src={xender} alt="" width="37" height="36"></img>
             </div>

@@ -14,8 +14,10 @@ import Videos from './components/Videos';
 function App() {
   return (
     <>
+    <div className='flex h-full'>
+    <Sidebar />
+    <div className='w-full'>
     <Header/>
-   <Sidebar />
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/apps" element={<Apps />} />
@@ -25,7 +27,10 @@ function App() {
       <Route path="/files" element={<Files />} />
       <Route path="/videos" element={<Videos />} />
     </Routes>
-     </>
+     </div> 
+     </div>
+    </>
+    
   );
 }
 
