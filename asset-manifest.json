@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Xender-Web-Clone/static/css/main.1a0c9907.css",
-    "main.js": "/Xender-Web-Clone/static/js/main.2b78e58b.js",
+    "main.css": "/Xender-Web-Clone/static/css/main.2f14bc77.css",
+    "main.js": "/Xender-Web-Clone/static/js/main.f615c4f9.js",
     "static/js/787.397b7dfd.chunk.js": "/Xender-Web-Clone/static/js/787.397b7dfd.chunk.js",
     "static/media/logo.png": "/Xender-Web-Clone/static/media/logo.ce76d124d17b9c1c0eeb.png",
     "static/media/home-phone.png": "/Xender-Web-Clone/static/media/home-phone.df5fdeec0cfcec7eb40f.png",
@@ -23,12 +23,12 @@
     "static/media/music.svg": "/Xender-Web-Clone/static/media/music.e4d3663c41069608d9be7fbb8134432e.svg",
     "static/media/video.svg": "/Xender-Web-Clone/static/media/video.de816aa63f7fc69670aaa6119dfa4eef.svg",
     "static/media/folder.svg": "/Xender-Web-Clone/static/media/folder.a8bbbe18e164af3f8c0cba4b756f39f8.svg",
-    "main.1a0c9907.css.map": "/Xender-Web-Clone/static/css/main.1a0c9907.css.map",
-    "main.2b78e58b.js.map": "/Xender-Web-Clone/static/js/main.2b78e58b.js.map",
+    "main.2f14bc77.css.map": "/Xender-Web-Clone/static/css/main.2f14bc77.css.map",
+    "main.f615c4f9.js.map": "/Xender-Web-Clone/static/js/main.f615c4f9.js.map",
     "787.397b7dfd.chunk.js.map": "/Xender-Web-Clone/static/js/787.397b7dfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a0c9907.css",
-    "static/js/main.2b78e58b.js"
+    "static/css/main.2f14bc77.css",
+    "static/js/main.f615c4f9.js"
   ]
 }
